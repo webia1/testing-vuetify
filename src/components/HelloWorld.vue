@@ -1,7 +1,7 @@
 <template>
-  <div class="hello">
+  <v-container>
     <h1>{{ msg }}</h1>
-    </div>
+    </v-container>
 </template>
 
 <script lang="ts">

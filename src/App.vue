@@ -1,10 +1,9 @@
 <template>
+  <v-app>
     <router-view/>
+  </v-app>
 </template>
 
 <style lang="stylus">
-#app
-  font-family 'Avenir', Helvetica, Arial, sans-serif
-  -webkit-font-smoothing antialiased
-  -moz-osx-font-smoothing grayscale
+@import 'assets/styles/main.styl';
 </style>
