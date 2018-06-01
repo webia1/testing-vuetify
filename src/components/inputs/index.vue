@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <v-layout>
-      <v-text-field id="testing" name="input-1" label="Label Text"></v-text-field>
+      <v-text-field id="testing" name="input-1" label="Text Field"></v-text-field>
     </v-layout>
   </v-container>
 </template>
